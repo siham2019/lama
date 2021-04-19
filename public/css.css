@@ -1,0 +1,101 @@
+body{
+    background-color: #591559;
+    width: 100%;
+    overflow-x: hidden;
+}
+.navbar a{
+    color: white !important;
+}
+.ia{
+    background-color: #942590;
+    color: white;
+}
+.desc{
+    background-color: #6E146E;
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+}
+
+.ar{
+    width: 200px;
+    height: 150px;
+}
+
+.ser{
+    height: 400px;
+}
+.ser img{
+  width: 90%;
+  height: 100%;
+}
+
+.navbar-brand img{
+    width: 30px;
+}
+.navbar-brand{
+    text-align: right;
+/*    */
+}
+.s img{
+    width: 95%;
+    height: 90%;
+}
+.v{
+    margin: 0;
+    padding: 0;
+    font-family: 'Reem Kufi', sans-serif;
+    font-weight: lighter;
+}
+.t{
+    width: 70%;
+    margin-right: 40px;
+    text-align: center;
+    color: white;
+    background-color: #420a42;
+}
+
+.ep{
+    width: 250px;
+    height: 350px; 
+}
+
+
+
+.ep p{
+    text-align: center;
+    color: white;
+    background-color: #420a42;
+}
+.ep img{
+  width: 250px;
+  height: 250px;
+}
+
+.c{
+    background-color: #6E146E;
+    color: white;
+}
+form{
+    margin-right: 30%;
+    margin-left: 30%;
+    width: 600px;
+    border-radius: 10px;
+    padding: 25px;
+
+   background-color: #942590;
+}
+.f{
+    direction: rtl;
+    text-align: right;
+    color: white;
+}
+.n {
+    font-size: 40px;
+    margin: 0;
+    text-align: right;
+    font-weight: bold;
+}
+.nav-item{
+    font-size: 20px;
+}
